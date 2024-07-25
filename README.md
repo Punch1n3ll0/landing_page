@@ -5,9 +5,9 @@
 
 ### Style Guideline Images 
 
-![alt text](image-3.png)
+![alt text](/style_guidelines/01.png)
 
-![alt text](image-4.png)
+![alt text](/style_guidelines/02.png)
 
 ### Improvements
 
@@ -15,11 +15,11 @@
 - [x] Simple animations
 - [x] Semantic elements
 
-## Finished Version
+## Finished Versions
 ---
 
-![alt text](image.png)
+![alt text](/finished_images/127.0.0.1_5500_index.html.png)
 
-![alt text](image-1.png)
+![alt text](/finished_images/127.0.0.1_5500_index.html(iPad%20Pro).png)
 
-![alt text](image-2.png)
+![alt text](/finished_images/127.0.0.1_5500_index.html(iPhone%20SE).png)
