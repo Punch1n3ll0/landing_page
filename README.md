@@ -15,7 +15,7 @@
 - [x] Simple animations
 - [x] Semantic elements
 
-## Finished Versions
+## Finished Version
 ---
 
 ![alt text](/finished_images/127.0.0.1_5500_index.html.png)
